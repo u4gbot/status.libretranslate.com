@@ -1,18 +1,17 @@
 # Change these first
 owner: u4gbot # Your GitHub username
-repo: status.webodm.net
+repo: status.libretranslate.com 
 
 # Add your sites here
 sites:
-  - name: Processing Network (spark1)
-    url: https://spark1.webodm.net
+  - name: API Service
+    url: https://libretranslate.com
     expectedStatusCodes:
       - 200
-      - 401
-  - name: Dashboard
-    url: https://webodm.net
-  - name: S3 Storage
-    url: https://wln.s3.webodm.net/test.txt
+  - name: API Portal
+    url: https://portal.libretranslate.com
+  - name: Community Forum
+    url: https://community.libretranslate.com
     
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -29,7 +28,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   # logoUrl: ""
-  name: WebODM Lightning
+  name: LibreTranslate
   introTitle: ""
   introMessage: ""
   navbar:
