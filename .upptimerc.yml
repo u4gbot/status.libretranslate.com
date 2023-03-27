@@ -10,7 +10,7 @@ sites:
       - 200
   - name: API Portal
     url: https://portal.libretranslate.com
-  - name: Community Forum
+  - name: Forum
     url: https://community.libretranslate.com
     
 workflowSchedule:
