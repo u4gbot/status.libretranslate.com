@@ -4,36 +4,40 @@
     "url": "https://libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/libretranslate.com.ico",
     "slug": "api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 683,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
-    "dailyMinutesDown": {}
+    "time": 726,
+    "timeDay": 463,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "API Portal",
     "url": "https://portal.libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.libretranslate.com.ico",
     "slug": "api-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 640,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "time": 498,
+    "timeDay": 442,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Forum",
