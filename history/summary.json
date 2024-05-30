@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
     "time": 621,
-    "timeDay": 581,
-    "timeWeek": 629,
-    "timeMonth": 601,
+    "timeDay": 533,
+    "timeWeek": 619,
+    "timeMonth": 594,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2024-04-30": 19,
@@ -37,8 +37,7 @@
       "2023-09-30": 18,
       "2023-08-31": 18,
       "2023-07-31": 18,
-      "2023-06-30": 19,
-      "2023-05-31": 18
+      "2023-06-30": 19
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 590,
-    "timeDay": 566,
-    "timeWeek": 605,
-    "timeMonth": 602,
+    "timeDay": 554,
+    "timeWeek": 608,
+    "timeMonth": 596,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-04-30": 19,
@@ -75,8 +74,7 @@
       "2023-09-16": 9,
       "2023-08-31": 18,
       "2023-07-31": 18,
-      "2023-06-30": 19,
-      "2023-05-31": 18
+      "2023-06-30": 19
     }
   },
   {
@@ -85,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.libretranslate.com.ico",
     "slug": "forum",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 761,
-    "timeDay": 669,
-    "timeWeek": 725,
-    "timeMonth": 724,
+    "time": 760,
+    "timeDay": 704,
+    "timeWeek": 724,
+    "timeMonth": 725,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2023-12-15": 24,
