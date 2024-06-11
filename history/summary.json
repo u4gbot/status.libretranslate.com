@@ -4,7 +4,7 @@
     "url": "https://libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/libretranslate.com.ico",
     "slug": "api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 595,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2024-06-11": 0,
       "2024-05-31": 20,
       "2024-04-30": 19,
       "2024-04-22": 63,
