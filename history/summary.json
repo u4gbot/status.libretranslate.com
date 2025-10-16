@@ -74,19 +74,19 @@
     "url": "https://community.libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.libretranslate.com.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 565,
-    "timeWeek": 597,
+    "timeDay": 604,
+    "timeWeek": 603,
     "timeMonth": 634,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-10-16": 0
+      "2025-10-16": 11
     }
   }
 ]
