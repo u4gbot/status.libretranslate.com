@@ -4,17 +4,17 @@
     "url": "https://libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/libretranslate.com.ico",
     "slug": "api-service",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.75%",
-    "time": 757,
-    "timeDay": 482,
-    "timeWeek": 395,
-    "timeMonth": 1873,
-    "timeYear": 826,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "87.46%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.72%",
+    "time": 756,
+    "timeDay": 481,
+    "timeWeek": 404,
+    "timeMonth": 1833,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-06-30": 19,
       "2025-08-31": 22,
@@ -34,7 +34,8 @@
       "2026-01-28": 28,
       "2026-03-20": 376,
       "2026-03-25": 57,
-      "2026-06-09": 160
+      "2026-06-09": 160,
+      "2026-06-24": 181
     }
   },
   {
