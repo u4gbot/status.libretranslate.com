@@ -4,17 +4,17 @@
     "url": "https://libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/libretranslate.com.ico",
     "slug": "api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 747,
-    "timeDay": 752,
-    "timeWeek": 567,
-    "timeMonth": 568,
-    "timeYear": 799,
+    "time": 779,
+    "timeDay": 10202,
+    "timeWeek": 2953,
+    "timeMonth": 1165,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-08-31": 22,
       "2025-09-14": 24,
@@ -34,7 +34,8 @@
       "2026-03-20": 376,
       "2026-03-25": 57,
       "2026-06-09": 160,
-      "2026-06-24": 181
+      "2026-06-24": 181,
+      "2026-08-26": 1
     }
   },
   {
@@ -42,17 +43,17 @@
     "url": "https://portal.libretranslate.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.libretranslate.com.ico",
     "slug": "api-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 659,
-    "timeDay": 780,
-    "timeWeek": 660,
-    "timeMonth": 637,
-    "timeYear": 671,
+    "time": 697,
+    "timeDay": 10182,
+    "timeWeek": 3026,
+    "timeMonth": 1229,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-08-31": 22,
       "2025-09-30": 22,
@@ -62,7 +63,8 @@
       "2025-12-01": 114,
       "2025-11-30": 10,
       "2026-01-01": 114,
-      "2025-12-31": 9
+      "2025-12-31": 9,
+      "2026-08-26": 0
     }
   },
   {
